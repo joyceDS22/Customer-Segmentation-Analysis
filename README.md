@@ -1,4 +1,4 @@
-# Project Name: Customer Segmentation Analysis
+# Project Name: Customer Segmentation Analysis using R
 •	Data Extracted was from a Uk based online store which sells mainly occasion gifts. The aim of the study is to help business to better understand its customers so able to conduct customer centric marketing more efficiently. 
 
 •	Software application used: R Programming
